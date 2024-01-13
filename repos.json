@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris",
+      "branch": "thirteen",
+      "device": "polaris"
     },
     "withKernelSU": true,
     "toolchains": [
